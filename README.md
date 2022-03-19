@@ -1,2 +1,2 @@
-# GoogleKickStart-Solutions
-Accepted solutions of google kickstart problemset
+# SJTUOJ-Solutions
+Accepted solutions of sjtuoj problemset
